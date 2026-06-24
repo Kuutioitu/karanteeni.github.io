@@ -1,14 +1,710 @@
 [
   {
-    "date": "05.2000",
-    "title": "Quis adipisicing incididunt.",
+    "date": "Alkusanat",
+    "title": "",
     "sections": [
       {
         "type": "text",
         "content": [
-          "Sit qui sint sint sit esse duis qui nulla tempor. Ut sit nisi sint aliquip officia. Tempor veniam aute aliquip eiusmod. Pariatur commodo nulla fugiat quis minim pariatur quis laboris commodo ullamco sunt irure."
+          "Täällä ei ole vielä kaikkia kuvia ja tekstejä paikoillaan, ja niitä lisätään sitä mukaa kun saadaan avattua ja muisteltua nuita vanhoja maailmoja, palvelimia, kuvia, ja muistoja <3"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "Kivikausi - 2015",
+    "title": "Kaksi servua ennen karanteenia",
+    "sections": [
+      {
+        "type": "text",
+        "content": [
+          "Ennen kuin Karanteeni oli olemassa, monet nykyiset ja entiset ylläpitolaiset tutustuivat toisiinsa ennen Karanteenin perustamista tällä toisella palvelimella. Pienten alkukankeuksien ja tutustumisien jälkeen meillä alkoi juttu luistamaan, ja oltiin mukana moderoimassa tätä aiempaa palvelinta.",
+          "Mitä pidemmälle mentiin ajassa, sitä enemmän saatiin täältä kavereita joiden kanssa pelattiin useita pelejä. Ajan mukana kuitenkin tämä aiemman palvelimen ympäristö alkoi käymään painostavaksi toisten ylläpitolaisten ja serverin toimintamallin takia. Tässä vaiheessa alkoikin jo syntymään pieniä railoja ylläpitolaisten välille.",
+          "Lopulta asiat päätyivätkin siihen, että valtaosa tämän palvelimen ylläpidosta erosi tältä servulta, joko suoraan tai pikkuhiljaa viikkojen kuluessa."
+        ]
+      }
+    ]
+  },
+  {
+    "date": "1.2016",
+    "title": "Purolaakso",
+    "sections": [
+      {
+        "type": "image",
+        "content": [
+          {
+            "src": "/images/history/puro_1.png",
+            "alt": "Purolaakson spawn",
+            "description": "Purolaakson spawn, kuvan ulkopuolella oleva aku ankke ei näy kuvassa"
+          },
+          {
+            "src": "/images/history/2026-06-18_18.37.35.png",
+            "alt": "Purolaakson spawn",
+            "description": "Puron spawn, mitä valtaosa pelaajista ei nähnyt ennenkuin ensimmäiset rakentajat pistivät sen matalaksi"
+          },
+          {
+            "src": "/images/history/2026-06-18_18.41.20.png",
+            "alt": "Quake hub",
+            "description": "Minipelit - Quake hub"
+          },
+          {
+            "src": "/images/history/2026-06-18_18.41.44.png",
+            "alt": "Quake punainen kartta",
+            "description": "Quaken suosituin kartta"
+          },
+          {
+            "src": "/images/history/2026-06-18_18.42.12.png",
+            "alt": "Quake kartta mikä ei koskaan tullut käyttöön",
+            "description": "Quaken kartta mikä ei koskaan tullut käyttöön"
+          },
+          {
+            "src": "/images/history/2026-06-18_18.46.36.png",
+            "alt": "Minipelien hub",
+            "description": "Minipelien hub"
+          },
+          {
+            "src": "/images/history/2026-06-18_18.47.23.png",
+            "alt": "Purolaakson kauppa",
+            "description": "Purolaakson kauppa"
+          }
         ]
       },
+      {
+        "type": "text",
+        "content": [
+          "Monet ylläpitäjät jotka olivat eronneet, kavereita kaikki, halusivat alkaa luomaan uutta palvelinta. Yksi ylläpitäjistä ilmoittikin, että aikoo perustaa itse oman palvelimen, jolla asiat tulisi hoitumaan paremmin kuin tällä aiemmalla palvelimella, paremmalla porukalla.",
+          "Tälle palvelimelle saatiinkin rakennettua paljon parempi ympäristö, sekä pelaajille, että ulkonäöllisesti. Vaikka aiemmalle palvelimelle jääneen ylläpidon kanssa riitoja välillä tulikin satunnaisista asioista, me saatiin pidettyä asiat kasassa tällä palvelimella. Riidat kuitenkin vähenivät aiemman palvelimen ihmisten kanssa, ja päästiin omassa rauhassa kehittämään tätä uutta palvelinta, Purolaaksoa.",
+          "Purolaakson voisi ajatella olleen leikkikenttä, millä nykyiset ja entiset omistajat oppivat ylläpitämään palvelinta, lähempänä palvelimen pyöritystä kuin koskaan aiemmin."
+        ]
+      }
+    ]
+  },
+  {
+    "date": "Karanteenin syntymä (2016)",
+    "title": "",
+    "sections": [
+      {
+        "type": "image",
+        "content": [
+          {
+            "src": "/images/history/karanteenisuntuubi.png",
+            "alt": "Karanteenin ensimmäinen nettisivujen banner",
+            "description": ""
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "content": [
+          "Purolaakson omistajalla loppui ajan mittaa ylläpito (ja rahat) servun ylläpitämiseen, ja sen lopetusaikataulu tuli hiukan yllätyksenä. Tässä vaiheessa pohdittiin, että mitä tulisimme tekemään ilman Puroa, mitä oltiin rakennettu porukalla.",
+          "Karanteenin kaksi ensimmäistä omistajaa päättivätkin perustaa oman palvelimen, vaikka kolmas ei vielä heti halunnutkaan lähteä tähän mukaan. Palvelintila vuokrattiin 10.6.2016.",
+          "Palvelimelle ruvettiinkin kolmisteen pohtimaan nimeä, ja vaihtoehtojen pyörittelyn jälkeen päädyimme nimeen \"Karanteeni\", koska pelaajat eivät pääse sieltä pois. Samalla luotiin myös nykyisinkin käytössä oleva slogan, \"Serveri, joka vangitsee sinut\". Ainoastaan huutomerkki on tullut myöhemmin mukaan!",
+          "Aiempien kokemuksien ja yleisen minescenen vuoksi päätimmekin, että ihan alusta asti teemme palvelimen niin, että pelaamalla pelaajat voisivat saada uusia pelitasoja, täysin ilmaseksi."
+        ]
+      },
+      {
+        "type": "image",
+        "content": [
+          {
+            "src": "/images/history/2016-06-10_20.45.10.png",
+            "alt": "Jome Karanteenin ensimmäisessä maailmassa, voidissa",
+            "description": "Karanteenin ensimmäinen kuvankaappaus"
+          },
+          {
+            "src": "/images/history/2016-06-19_18.32.29.png",
+            "alt": "Ranta, missä näkyy laiva",
+            "description": "Laiva Karanteenin ensimmäisen spawnin rannalta"
+          },
+          {
+            "src": "/images/history/2016-08-04_17.02.29.png",
+            "alt": "Ylläpitohuone",
+            "description": "(4.8.2016) Karanteenissa on ylläpitäjät löytyneet aina hubista tai spawnilta"
+          },
+          {
+            "src": "/images/history/2016-08-06_14.22.26_4.png",
+            "alt": "Greenscreen",
+            "description": "(6.8.2016) Ensimmäisen uutisvideon kuvaushuone"
+          },
+          {
+            "src": "/images/history/2016-08-30_20.41.44.png",
+            "alt": "Karanteenin ensimmäiset omistajat",
+            "description": "(30.8.2016) Omistajien yhteiskuva"
+          },
+          {
+            "src": "/images/history/2016-09-04_18.20.42.png",
+            "alt": "Ensimmäinen yhteiskuva pelaajista",
+            "description": "(4.9.2016) Karanteenin ensimmäiset juhlat ja yhteiskuva"
+          },
+          {
+            "src": "/images/history/2016-10-07_19.17.40.png",
+            "alt": "Ensimmäinen spawn halloweenteemaisena",
+            "description": "(7.10.2016) Ensimmäisen spawnin halloweenversio"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "content": [
+          "Ensimmäisen kartan aikana päätimme tehdä myös Karanteenille Youtube-kavan, ja julkaista sille ensimmäisen videon:"
+        ]
+      },
+      {
+        "type": "video",
+        "content": "https://www.youtube.com/embed/GzslKOAWrCs"
+      }
+    ]
+  },
+  {
+    "date": "Karanteenin ensimmäiset vuodet",
+    "title": "",
+    "sections": [
+      {
+        "type": "image",
+        "content": [
+          {
+            "src": "/images/history/2016-12-27_20.34.17.png",
+            "alt": "Tiilipylväsraunioita",
+            "description": "(27.12.2016) Karanteenin toisen kartan spawn"
+          },
+          {
+            "src": "/images/history/spawn2_2.png",
+            "alt": "",
+            "description": ""
+          },
+          {
+            "src": "/images/history/spawn2_3.png",
+            "alt": "",
+            "description": ""
+          },
+          {
+            "src": "/images/history/spawn2_4.png",
+            "alt": "",
+            "description": ""
+          },
+          {
+            "src": "/images/history/omistaja2.png",
+            "alt": "Jomeee Nuubles ja Emmazki",
+            "description": "Karanteenin omistajat 2. kartan aikana"
+          },
+          {
+            "src": "/images/history/image_2026-06-24_16-12-46.png",
+            "alt": "Ylläpidon yhteiskuva 2017",
+            "description": "(27.2.2017) Karanteenin ylläpidon yhteiskuva"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "content": [
+          "Karanteenin toinen kartta avattiin tammikuussa 2017. Tämän spawnin inspiraationa on toiminut todennäköisesti minen viidakkotemppelit, mutta asiasta ei olla täysin varmoja. Spawn itsessään oli hyvin laaja ja avonainen korkeilla torneilla.",
+          "Karanteenissa alkuaikoina pelaajilla olivat myös kitit käytettävissä, jotka paranivat pelitason mukaisesti paremmaksi. Matalimman tason kittiä pystyi käyttämään kerran päivässä, kun taas korkeamman tason kitit olivat kertakäyttöisiä, ja niillä sai pelin nopeammin aloitettua."
+        ]
+      },
+      {
+        "type": "image",
+        "content": [
+          {
+            "src": "/images/history/2017-01-14_15.52.13.png",
+            "alt": "Yhteiskuva pelaajista",
+            "description": "(14.1.2017) Juhlien yhteiskuva"
+          },
+          {
+            "src": "/images/history/2017-01-14_15.52.13.png",
+            "alt": "Yhteiskuva pelaajista",
+            "description": "(14.1.2017) Juhlien yhteiskuva"
+          },
+          {
+            "src": "/images/history/2017-01-14_15.11.52.png",
+            "alt": "Yhteiskuva pelaajista",
+            "description": "(14.1.2017) Juhlien yhteiskuva"
+          },
+          {
+            "src": "/images/history/2017-01-14_15.26.25.png",
+            "alt": "Yhteiskuva pelaajista",
+            "description": "(14.1.2017) Juhlien yhteiskuva"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "content": [
+          "Jotkin pelaajat voivatkin muistaa, että Karanteeniin avattiin aikoinaan sellainen pelitila kuin Hostile Survival. Tässä pelitilassa pelaajilla oli mahdollisuus taistella keskenään hyödyntäen erikoiskirveitä ja kypäriä. Näillä pystyi esimerkiksi ohjaamaan toisen pelaajan hahmoa jos niitä käytti oikein.",
+          "Hostilen pienen pelaajamäärän vuoksi siitä luovuttiinkin, ja se vaihdettiin normaaliin pvp-maailmaan. Allaolevalla videolla näkyy lyhyt esittely joistain näistä erikoisvälineistä mitä hostilessa oli käytössä."
+        ]
+      },
+      {
+        "type": "video",
+        "content": "https://www.youtube.com/embed/Bmp0ewXXGA0"
+      },
+      {
+        "type": "image",
+        "content": [
+          {
+            "src": "/images/history/image_2026-06-24_16-08-30.png",
+            "alt": "Hostile Survivalin spawn",
+            "description": "(17.2.2017) Hostile Survivalin ensimmäinen spawn"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "content": [
+          "Karanteenissa kartat ovat alusta lähtien olleet voimassa aina noin puolisen vuotta. Tämän takia tämä toinenkin kartta saapui päätökseensä kesäkuussa 2017, kun servu suljettiin uuden kartan asetusta varten. Tämä kolmas kartta olikin voimassa kesäkuusta 2017 joulukuuhun 2017.",
+          "Kolmannen kartan spawnina toimi mäen päällä oleva linna tai kartano, jonka moni pelaaja voikin muistaa sen spawnin ympäriltä löytyvistä puista. Vaikka puut olivatkin hienoja, ne jäädytti herkästi heikommalla koneella pelaavien pelit."
+        ]
+      },
+      {
+        "type": "image",
+        "content": [
+          {
+            "src": "/images/history/spawn3.png",
+            "alt": "Karanteenin kolmas spawn",
+            "description": "(10.6.2017) Karanteenin kolmas spawn"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "content": [
+          "Tämän kolmannen kartan päätös tulikin nauhoitettua, kun ylläpito ja pelaajat grieffasivat sen ja maailman. Kaikki maailmat ovatkin lähes aina mapin päätteeksi ladattu talteen ja annettu ladattavaksi. Tämän jälkeen kartat ovat olleet vapaata riistaa grieffaamiselle muutaman päivän ajan ennen uuteen karttaan vaihtoa."
+        ]
+      },
+      {
+        "type": "video",
+        "content": "https://www.youtube.com/embed/I3Uuooa82oI"
+      },
+      {
+        "type": "text",
+        "content": [
+          "Karanteenin neljäs kartta oli avoinna 2017 lopusta syyskuuhun 2018. Spawnina toimi vanhemman spawnin uudistettu versio. Ensimmäisen kartan spawn otettiin ja uudistettiin lähes täysin. Spawnipiste vaihtoi paikkaa ja rakennukseen lisättiin kerroksia ja huoneita. Lisäksi spawnille rakentui sisäpiha ja kauppana toimi lentävä steampunk -laiva. Tässä kartassa oli myös votecratet käytössä, kuten mahdollisesti jollakin aiemmallakin spawnilla."
+        ]
+      },
+      {
+        "type": "image",
+        "content": [
+          {
+            "src": "/images/history/2026-06-24_16.40.48.png",
+            "alt": "Karanteenin neljäs spawn",
+            "description": "Karanteenin neljäs spawn ulkoapäin kuvattuna"
+          },
+          {
+            "src": "/images/history/2026-06-24_16.41.00.png",
+            "alt": "Karanteenin neljäs spawn spawnipisteellä",
+            "description": "Karanteenin neljäs spawn spawnipisteellä"
+          },
+          {
+            "src": "/images/history/2026-06-24_16.41.11.png",
+            "alt": "Karanteenin neljännen spawnin kauppalaiva",
+            "description": "Karanteenin neljännen spawnin kauppalaiva"
+          },
+          {
+            "src": "/images/history/2026-06-23_21.28.21.png",
+            "alt": "Karanteenin neljännen kartan droppartypaikka",
+            "description": "Karanteenin neljännen kartan droppartypaikka"
+          },
+          {
+            "src": "/images/history/2026-06-23_21.28.31.png",
+            "alt": "Karanteenin neljännen kartan toinen droppartypaikka",
+            "description": "Karanteenin neljännen kartan toinen droppartypaikka"
+          },
+          {
+            "src": "/images/history/durtclocker.png",
+            "alt": "Karanteenin hubin durt clöcker",
+            "description": "Karanteenin hubin durt clöcker"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "Prisonin suunnittelu (2018)",
+    "title": "Prisonin suunnittelu (2018)",
+    "sections": [
+      {
+        "type": "text",
+        "content": [
+          "Pelaajat tietävät tästä vähemmän, mutta Karanteeniin oltiin suunnittelemassa prison-maailmaa pidemmän aikaa, ja siihen selviteltiin plugareita ja rakennettiin kenttiä.",
+          "Ajan kanssa mielenkiinto prisonia kohtaan kuitenkin väheni, ja projektin ison skaalan vuoksi se jäikin ikuisesti jäihin. Tästä löytyy kuitenkin joitain kuvia siitä, miltä Karanteenin prison olisi näyttänyt."
+        ]
+      },
+      {
+        "type": "image",
+        "content": [
+          {
+            "src": "/images/history/2026-06-23_21.07.25.png",
+            "alt": "Prisonin spawn",
+            "description": "Prisonin spawn"
+          },
+          {
+            "src": "/images/history/2026-06-23_21.08.24.png",
+            "alt": "Prisonin spawn sisältä",
+            "description": "Prisonin spawn sisältä"
+          },
+          {
+            "src": "/images/history/2026-06-23_21.08.57.png",
+            "alt": "Prisonin kaivosportaalihuone",
+            "description": "Prisonin kaivosportaalihuone"
+          },
+          {
+            "src": "/images/history/2026-06-23_21.09.10.png",
+            "alt": "Prisonin kaivosportaalihuonekäytävä",
+            "description": "Prisonin kaivosportaalihuonekäytävä"
+          },
+          {
+            "src": "/images/history/2026-06-23_21.09.34.png",
+            "alt": "Prisonin sortunut kaivos",
+            "description": "Prisonin sortunut kaivos, jossa pelaaja olisi muka menettänyt muistin"
+          },
+          {
+            "src": "/images/history/2026-06-23_21.10.11.png",
+            "alt": "Prisonin pvp-areena",
+            "description": "Prisonin pvp-areena"
+          },
+          {
+            "src": "/images/history/2026-06-23_21.10.38.png",
+            "alt": "Prisonin kauppa-aluetta",
+            "description": "Prisonin kauppa-aluetta"
+          },
+          {
+            "src": "/images/history/2026-06-23_21.10.58.png",
+            "alt": "Prisonin kauppa-aluetta",
+            "description": "Prisonin kauppa-aluetta"
+          },
+          {
+            "src": "/images/history/2026-06-23_21.11.14.png",
+            "alt": "Prisonin 2. kaivoshuoneista",
+            "description": "Prisonin 2. kaivoshuoneista"
+          },
+          {
+            "src": "/images/history/2026-06-23_21.11.32.png",
+            "alt": "Prisonin 33. kaivoshuoneista",
+            "description": "Prisonin 33. kaivoshuoneista"
+          },
+          {
+            "src": "/images/history/2026-06-23_21.11.47.png",
+            "alt": "Prisonin käytävä kartan eri osioihin",
+            "description": "Prisonin käytävä kartan eri osioihin"
+          },
+          {
+            "src": "/images/history/2026-06-23_21.12.09.png",
+            "alt": "Prisonin käytävä puulouhinta-alueelle",
+            "description": "Prisonin käytävä puulouhinta-alueelle"
+          },
+          {
+            "src": "/images/history/2026-06-23_21.11.54.png",
+            "alt": "Prisonin puunlouhintahuone",
+            "description": "Prisonin puunlouhintahuone"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "content": [
+          "Prisonissa ideana oli, että pelaajat olisivat niin sanotusti kaapattu kaivamaan malmia ja puuta, ja niiden muisti olisi pyyhitty. Mitä pidemmälle pelaajat olisivat pelanneet, sitä enemmän ne olisivat kuulleet loresta, ja pelin lopuksi olisivat päässeet karkaamaan tästä vankilasta.",
+          "Prisonin nimi oli 'Artziko', josta löytyikin joitain mainosjulisteita palvelimen kaupoista, johon nämä kaivetut materiaalit olisivat niin sanotusti menneet myyntiin. Tätä suunnitelmaa ei kuitenkaan koskaan tehty loppuun asti. Teemansa mukaisesti prisonista itsestään suunniteltiinkin mahdollisimman dystopista."
+        ]
+      },
+      {
+        "type": "image",
+        "content": [
+          {
+            "src": "/images/history/2026-06-23_21.06.55.png",
+            "alt": "Näkymä prisonista karattaessa",
+            "description": "Näkymä prisonista karattaessa"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "Muutosten aikaa (2018 loppu - 2020)",
+    "title": "Muutosten aikaa",
+    "sections": [
+      {
+        "type": "text",
+        "content": [
+          "Karanteenin 5. kartta avattiin 23..20918, ja se jatkui helmikuun 2019 alkuun asti. Spawnina toimi suuri linna, jota kutsuttiin Lotrikiksi. Tämä oli palvelimen yksi suurimmista spawneista, ja portaita spawnilta poistumiseen olikin niin paljon, että sitä varten täytyi kehittää telepadit, että pelaajat voisivat poistua spawnilta ilman maratonia.",
+          "Karanteenissa oltiinkin tässä vaiheessa ja aiemmin valmisteltu omia plugareita Skriptin voimin, ja niitä alettiin valmistamaan aktiivisemmin lisää. Jotkin pelaajat voivatkin muistaa ne lukuisat bugit mitä tässä saatiin aikaan."
+        ]
+      },
+      {
+        "type": "image",
+        "content": [
+          {
+            "src": "/images/history/spawn5_1.png",
+            "alt": "Karanteenin Lotrikkispawn",
+            "description": "Karanteenin 5. (ja 6.) kartan Lotrikkispawn"
+          },
+          {
+            "src": "/images/history/image_2026-06-24_17-07-19.png",
+            "alt": "Karanteenin Lotrikkispawn",
+            "description": "Karanteenin 5. (ja 6.) kartan Lotrikkispawn"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "content": [
+          "Tähän asti Karanteenissa ei varsinaisesti ollut ylläpitohakemuksia, vaan ylläpitolaiset saatoivat vaan kysyä pelaajalta, että haluaako hän ylläpitoon. Sama ei toiminut ihan suoraan käänteisesti, koska jos sanoi 'anna op', niin se sytytti pelaajan tuleen. Tämä yläpitoon nostamisen tapa oli kuitenkin monelle pelaajalle ahdistava malli, jonka takia päätettiin lopettaa se, ja luotiin oikea hakupaikka niille, jotka halusivat ylläpitoon hakea.",
+          "Pian meidän ensimmäisellä hostilla kävikin suuri onnettomuus 2018 heinäkuussa - levytila täyttyi, pelaajien saaria alkoi katoamaan skyblockista, ja pelaajien peliaikaa katosi. Emme olleet saaneet tästä mitään varoitusta hostilta. Jouduimmekin hätäisesti sulkemaan palvelimen, ja parhaamme mukaan palauttamaan kadonnutta dataa.",
+          "Toisena onnettomuutena tämän jälkeen yksi ylläpitäjä muutti vahingossa koko survivalin kartan reikäjuustoksi, emmekä saaneet sitä enää palautettua - täytyikin tehdä pikainen mapreset.",
+          "Tämän jälkeen avattiin Karanteenin 6. kartta samalla spawnilla kuin mitä 5. kartassa oli käytössä. 6. kartta olikin käytössä 2019 alusta 2019 elokuuhun asti. Seuraavasta oikeasta suunnitellusta mapresetistä otettiinkin videota (välkkyvää videota):"
+        ]
+      },
+      {
+        "type": "video",
+        "content": "https://www.youtube.com/embed/AjbW4EXrkuA"
+      },
+      {
+        "type": "text",
+        "content": [
+          "Koska palvelinta pyöritettiin yhdellä minecraft-palvelimella, tästä tulikin aika paljon ongelmia. Tämän ja sen ajan hostin ongelmien vuoksi päätimmekin siirtyä paremmalle hostille, jossa pystyimme jakamaan minecraft-palvelimet omiksi asennuksikseen keväällä 2019.",
+          "Tästä tullut muutos oli suuri, emmekä saaneet vielä kaikkea toimimaan samaan aikaan. Tämän vuoksi Karanteenista poistuikin creative ja muut maailmat survivalia lukuunottamatta. Päätimme keskittyä siihen, että saisimme survivalin toimimaan mahdollisimman hyvin ensin tällä uudella järjestelmällä.",
+          "7. kartan spawnin nimi oli Satamakylä, ja täältä löytyykin ensimmäinen sieniluolan versio, jossa soi musiikki. Tässä vaiheessa luolassa vielä ei ollut sieniä, eikä Tuomas Veturia, vaan ylläpitolainen nuotion äärellä."
+        ]
+      },
+      {
+        "type": "image",
+        "content": [
+          {
+            "src": "/images/history/spawn7_1.png",
+            "alt": "7. kartan spawn",
+            "description": "Karanteenin 7. kartan spawn"
+          },
+          {
+            "src": "/images/history/spawn7_2.png",
+            "alt": "7. kartan spawn",
+            "description": "Karanteenin 7. kartan spawn"
+          },
+          {
+            "src": "/images/history/spawn7_3.png",
+            "alt": "7. kartan spawn",
+            "description": "Karanteenin 7. kartan spawn"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "content": [
+          "Meillä oli tarkoituksena kuitenkin saada nämä vanhat pelimuodot ja hub takaisin käyttöön 'suhteellisen nopeasti'. isoimpana esteenä tällöin oli kuitenkin kokemuksen puute, koska kellään meistä ei ollut aiempaa kokemusta Bungeecordin pluginien kehityksestä, ja sen opettelussa menikin oma aikansa. Isoimpana haasteena tässä olivatkin chatin ja pelitasojen toimintaan saaminen eri palvelinten välillä.",
+          "7. kartta oli käytössä 11.8.2019 - 14.2.2020 välillä.",
+          "Palvelimelle lisättiin joitain pieniä asioita, kuten esimerkiksi /nimeä komento. Näihin aikoihin palvelimelle lisättiin myös ensimmäinen joulukalenteri, jossa pelaajat pystyivät saamaan palkintoja. Kalenterissa oli yksittäinen kylä, jossa oli 24 rakennusta, ja jokaiseen rakennukseen oli piilotettu nappi, josta sai palkinnon kun vastasi sen esittämään kysymykseen oikein. Viimeisen rakennuksen nappi oli ehkä turhankin hankalasti piilotettu, kun se löytyi heti oven yläpuolelta hämärästä nurkasta.",
+          "Näihin aikoihin oltiin saatu myös Karanteenin 8. kartta auki 16.2.2020 - 29.5.2020. Samoihin aikoihin korona alkoi tekemään tuloaan maailmalle, ja moni ihminen ajattelikin, että Karanteenin nimi olisi tullut tästä."
+        ]
+      },
+      {
+        "type": "text",
+        "content": [
+          "Karanteenin 9. kartta oli käytössä 1.6.2020 - 6.11.2020.",
+          "Tähän aikaan palvelimen aktiivisin kehittäjä jäi tauolle, ja palvelimen kehitys jäi jäihin. Onneksi mukaan saatiin kuitenkin uusia kehittäjiä, jotka saivat palvelinta pidettyä pystyssä. Myöhemmin kehitystä päästiin kuitenkin jatkamaan eteenpäin, ja jälleen selvittämään miten Bungeecord saataisiin fiksusti toimimaan palvelimelle.",
+          "Bungeecordin kehityksen edistyessä pelaajien dataa saatiin siirrettyä sen puolelle pikkuhiljaa, valmistaen tulevaan päivitykseen, jossa palvelimia olisi enemmänkin kuin vain survival."
+        ]
+      },
+      {
+        "type": "image",
+        "content": [
+          {
+            "src": "/images/history/spawn9_1.png",
+            "alt": "9. kartan spawn",
+            "description": "Karanteenin 9. kartan spawn"
+          },
+          {
+            "src": "/images/history/spawn9_2.png",
+            "alt": "9. kartan spawn",
+            "description": "Karanteenin 9. kartan spawn"
+          },
+          {
+            "src": "/images/history/spawn9_3.png",
+            "alt": "9. kartan spawn",
+            "description": "Karanteenin 9. kartan spawn"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "Hiukan hiljaisempi kausi (2020 - 2022)",
+    "title": "",
+    "sections": [
+      {
+        "type": "text",
+        "content": [
+          "Näinä vuosina oli vähemmän palvelimelle merkittäviä muutoksia, enemmänkin pieniä päivityksiä ja juhlien tekoa. Karanteenin 10. kartta oli käytössä 7.11.2020 - 11.7.2021."
+        ]
+      },
+      {
+        "type": "image",
+        "content": [
+          {
+            "src": "/images/history/spawn10.png",
+            "alt": "10. kartan spawn",
+            "description": "Karanteenin 10. kartan spawn"
+          },
+          {
+            "src": "/images/history/juhlat10.png",
+            "alt": "10. Karanteenin uusi vuosi 2020/2021",
+            "description": "10. Karanteenin uusi vuosi 2020/2021"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "content": [
+          "11. kartta oli käytössä 13.7.2021 - 30.12.2021. Tästä puuttuu vielä kuva, mutta jos siitä löytyy jotain jostain, niin lisäämme sen tähän! Spawnina oli metsäluontospawn, jossa tuli iso metsä vastaan kun spawnilta käveli pois.",
+          "12. kartta oli auki 1.1.2022 - 24.6.2022, ja kuunsurppi palautui takaisin spawnille hiukan eri muodossa."
+        ]
+      },
+      {
+        "type": "image",
+        "content": [
+          {
+            "src": "/images/history/spawn12_2.png",
+            "alt": "12. kartan spawn",
+            "description": "Karanteenin 12. kartan spawn"
+          },
+          {
+            "src": "/images/history/spawn12_1.png",
+            "alt": "12. kartan spawnin pride-versio",
+            "description": "Karanteenin 12. kartan spawnin pride-versio"
+          },
+          {
+            "src": "/images/history/spawn12_3.png",
+            "alt": "12. kartan spawn",
+            "description": "Karanteenin 12. kartan spawn"
+          },
+          {
+            "src": "/images/history/spawn12_4.png",
+            "alt": "12. kartan spawn",
+            "description": "Karanteenin 12. kartan spawn"
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "content": [
+          {
+            "src": "/images/history/paasiainen2022.png",
+            "alt": "Pääsiäinen 2022",
+            "description": "2022 pääsiäisjuhlan yhteiskuva"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "Pelimuodot palaavat (2022 - ",
+    "title": "Pelimuodot palaavat",
+    "sections": [
+      {
+        "type": "text",
+        "content": [
+          "13. kartta oli käytössä 1.7.2022 - 27.1.2023. Tämän spawnin rakentamisesta löytyykin timelapse:"
+        ]
+      },
+      {
+        "type": "video",
+        "content": "https://www.youtube.com/embed/meWNptxx0zI"
+      },
+      {
+        "type": "image",
+        "content": [
+          {
+            "src": "/images/history/spawn13_1.png",
+            "alt": "13. kartan spawn",
+            "description": "Karanteenin 13. kartan spawn"
+          },
+          {
+            "src": "/images/history/spawn13_2.png",
+            "alt": "13. kartan spawn",
+            "description": "Karanteenin 13. kartan spawn"
+          },
+          {
+            "src": "/images/history/spawn13_3.png",
+            "alt": "13. kartan spawn",
+            "description": "Karanteenin 13. kartan spawn"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "content": [
+          "Tänä aikana saatiin palvelimelle Bungeecord toimimaan, ja pystyimme alkamaan kehittämään pelejä ja testaamaan sen toimintaa käytännössä. Saimmekin ilmoitettua että creative on vihdoinkin edistynyt pitkälle.",
+          "Saimme näihin aikoihin luotua myös 2. uutisvideon:"
+        ]
+      },
+      {
+        "type": "video",
+        "content": "https://www.youtube.com/embed/JNX_ZZnFUE0"
+      },
+      {
+        "type": "text",
+        "content": [
+          "14. kartta oli käytössä 28.1.2023 - 28.7.2023. Tämän kartan aikana saimme vihdoinkin avattua ovet creativeen uudistetulla kartalla oltuaan lähes neljä vuotta pois käytöstä, joka olihin hiukan pidempi aika kuin \"lyhyt aika\" mitä alunperin sanoimme."
+        ]
+      },
+       {
+        "type": "image",
+        "content": [
+          {
+            "src": "/images/history/spawn15_1.png",
+            "alt": "15. kartan spawn",
+            "description": "LISÄÄ CREAN KUVII"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "content": [
+          "15. kartta oli käytössä 29.7.2023 - 19.1.2024."
+        ]
+      },
+      {
+        "type": "image",
+        "content": [
+          {
+            "src": "/images/history/spawn15_1.png",
+            "alt": "15. kartan spawn",
+            "description": "Karanteenin 15. kartan spawn"
+          },
+          {
+            "src": "/images/history/spawn15_2.png",
+            "alt": "15. kartan spawn",
+            "description": "Karanteenin 15. kartan spawn"
+          },
+          {
+            "src": "/images/history/spawn15_3.png",
+            "alt": "15. kartan spawn",
+            "description": "Karanteenin 15. kartan spawn"
+          },
+          {
+            "src": "/images/history/spawn15_4.png",
+            "alt": "15. kartan spawn",
+            "description": "Karanteenin 15. kartan spawn"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "content": [
+          "16. kartta oli käytössä 20.1.2024 - 31.7.2024. Tämän kartan aikana hub avattiin yllätyksenä pääsiäisjuhlien päätteeksi 23.3.2024. Hubissa oli mukana useita minipelejä, kuten tetris, kitpvp, ja matopeli. Hubilta löytyi myös galleriasaari, parkeita, ja uudistetut äänestyslaatikot."
+        ]
+      }
+    ]
+  },
+  {
+    "date": "10.6.2016",
+    "title": "Isoja uutisia",
+    "sections": []
+  },
+  {
+    "date": "10.6.2016",
+    "title": "Palvelimen avaus",
+    "sections": []
+  },
+  {
+    "date": "05.2000",
+    "title": "Quis adipisicing incididunt.",
+    "sections": [
       {
         "type": "video",
         "content": "https://www.youtube.com/embed/BvtBN80ifqY?si=fxYSK756lr0QkIXE"
@@ -16,7 +712,7 @@
       {
         "type": "text",
         "content": [
-          "Nostrud ut do esse exercitation aliqua reprehenderit Lorem eu labore ad labore aliqua incididunt. Velit incididunt fugiat minim consectetur consectetur fugiat voluptate. Aliqua magna aliqua quis officia mollit duis dolore quis culpa mollit cupidatat aute pariatur."
+          ""
         ]
       },
       {
@@ -26,121 +722,7 @@
             "src": "/images/history/test.png",
             "alt": "Ut non incididunt nostrud labore laborum occaecat excepteur ullamco.",
             "description": "Labore deserunt nulla dolor duis do aliquip amet officia id labore."
-          },
-            {
-            "src": "/images/history/test.png",
-            "alt": "",
-            "description": ""
-          },
-          {
-            "src": "/images/history/test.png",
-            "alt": "Elit fugiat aute commodo est ea qui elit.",
-            "description": "Dolore deserunt aute amet est dolore aute laborum commodo officia."
           }
-        ]
-      },
-      {
-        "type": "text",
-        "content": [
-          "Esse adipisicing mollit ex ut elit id ipsum cillum et elit nisi nostrud. Excepteur non velit proident enim sint commodo ut dolore laboris velit adipisicing. Fugiat nisi aute cillum minim fugiat incididunt commodo consectetur exercitation ea eu Lorem pariatur. Labore culpa aliquip in consectetur eiusmod ut magna amet.",
-          "Esse adipisicing mollit ex ut elit id ipsum cillum et elit nisi nostrud. Excepteur non velit proident enim sint commodo ut dolore laboris velit adipisicing. Fugiat nisi aute cillum minim fugiat incididunt commodo consectetur exercitation ea eu Lorem pariatur. Labore culpa aliquip in consectetur eiusmod ut magna amet.",
-          "Esse adipisicing mollit ex ut elit id ipsum cillum et elit nisi nostrud. Excepteur non velit proident enim sint commodo ut dolore laboris velit adipisicing. Fugiat nisi aute cillum minim fugiat incididunt commodo consectetur exercitation ea eu Lorem pariatur. Labore culpa aliquip in consectetur eiusmod ut magna amet."
-        ]
-      }
-    ]
-  },
-  {
-    "date": "05.2001",
-    "title": "Anim incididunt sunt aliquip Lorem.",
-    "sections": [
-      {
-        "type": "text",
-        "content": [
-          "Sit qui sint sint sit esse duis qui nulla tempor. Ut sit nisi sint aliquip officia. Tempor veniam aute aliquip eiusmod. Pariatur commodo nulla fugiat quis minim pariatur quis laboris commodo ullamco sunt irure."
-        ]
-      },
-      {
-        "type": "video",
-        "content": "https://www.youtube.com/watch?v=E4WlUXrJgy4"
-      },
-      {
-        "type": "text",
-        "content": [
-          "Nostrud ut do esse exercitation aliqua reprehenderit Lorem eu labore ad labore aliqua incididunt. Velit incididunt fugiat minim consectetur consectetur fugiat voluptate. Aliqua magna aliqua quis officia mollit duis dolore quis culpa mollit cupidatat aute pariatur."
-        ]
-      },
-      {
-        "type": "image",
-        "content": [
-          {
-            "src": "/images/history/test.png",
-            "alt": "Ut non incididunt nostrud labore laborum occaecat excepteur ullamco.",
-            "description": "Labore deserunt nulla dolor duis do aliquip amet officia id labore."
-          },
-            {
-            "src": "/images/history/test.png",
-            "alt": "",
-            "description": ""
-          },
-          {
-            "src": "/images/history/test.png",
-            "alt": "Elit fugiat aute commodo est ea qui elit.",
-            "description": "Dolore deserunt aute amet est dolore aute laborum commodo officia."
-          }
-        ]
-      },
-      {
-        "type": "text",
-        "content": [
-          "Esse adipisicing mollit ex ut elit id ipsum cillum et elit nisi nostrud. Excepteur non velit proident enim sint commodo ut dolore laboris velit adipisicing. Fugiat nisi aute cillum minim fugiat incididunt commodo consectetur exercitation ea eu Lorem pariatur. Labore culpa aliquip in consectetur eiusmod ut magna amet."
-        ]
-      }
-    ]
-  },
-  {
-    "date": "06.2001",
-    "title": "Proident exercitation irure incididunt nostrud fugiat.",
-    "sections": [
-      {
-        "type": "text",
-        "content": [
-          "Sit qui sint sint sit esse duis qui nulla tempor. Ut sit nisi sint aliquip officia. Tempor veniam aute aliquip eiusmod. Pariatur commodo nulla fugiat quis minim pariatur quis laboris commodo ullamco sunt irure."
-        ]
-      },
-      {
-        "type": "video",
-        "content": "https://www.youtube.com/watch?v=E4WlUXrJgy4"
-      },
-      {
-        "type": "text",
-        "content": [
-          "Nostrud ut do esse exercitation aliqua reprehenderit Lorem eu labore ad labore aliqua incididunt. Velit incididunt fugiat minim consectetur consectetur fugiat voluptate. Aliqua magna aliqua quis officia mollit duis dolore quis culpa mollit cupidatat aute pariatur."
-        ]
-      },
-      {
-        "type": "image",
-        "content": [
-          {
-            "src": "/images/history/test.png",
-            "alt": "Ut non incididunt nostrud labore laborum occaecat excepteur ullamco.",
-            "description": "Labore deserunt nulla dolor duis do aliquip amet officia id labore."
-          },
-            {
-            "src": "/images/history/test.png",
-            "alt": "",
-            "description": ""
-          },
-          {
-            "src": "/images/history/test.png",
-            "alt": "Elit fugiat aute commodo est ea qui elit.",
-            "description": "Dolore deserunt aute amet est dolore aute laborum commodo officia."
-          }
-        ]
-      },
-      {
-        "type": "text",
-        "content": [
-          "Esse adipisicing mollit ex ut elit id ipsum cillum et elit nisi nostrud. Excepteur non velit proident enim sint commodo ut dolore laboris velit adipisicing. Fugiat nisi aute cillum minim fugiat incididunt commodo consectetur exercitation ea eu Lorem pariatur. Labore culpa aliquip in consectetur eiusmod ut magna amet."
         ]
       }
     ]
