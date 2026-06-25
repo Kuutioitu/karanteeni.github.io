@@ -6,7 +6,8 @@
       {
         "type": "text",
         "content": [
-          "Täällä ei ole vielä kaikkia kuvia ja tekstejä paikoillaan, ja niitä lisätään sitä mukaa kun saadaan avattua ja muisteltua nuita vanhoja maailmoja, palvelimia, kuvia, ja muistoja <3"
+          "Tervetuloa selaamaan Karanteenin historiaa! Tältä sivulta löydät tietoa ja kuvia serverin kymmenvuotisen matkan ajalta. Tällä sivulla ei ole vielä kaikkia kuvia ja tekstejä paikoillaan, ja niitä lisätään ajan kanssa.",
+          "Lisäämme tulevaisuudessa tänne sivulle kuvia joulukalentereista, vanhoista hubeista, ja muista vastaavista."
         ]
       }
     ]
@@ -18,8 +19,8 @@
       {
         "type": "text",
         "content": [
-          "Ennen kuin Karanteeni oli olemassa, monet nykyiset ja entiset ylläpitolaiset tutustuivat toisiinsa ennen Karanteenin perustamista tällä toisella palvelimella. Pienten alkukankeuksien ja tutustumisien jälkeen meillä alkoi juttu luistamaan, ja oltiin mukana moderoimassa tätä aiempaa palvelinta.",
-          "Mitä pidemmälle mentiin ajassa, sitä enemmän saatiin täältä kavereita joiden kanssa pelattiin useita pelejä. Ajan mukana kuitenkin tämä aiemman palvelimen ympäristö alkoi käymään painostavaksi toisten ylläpitolaisten ja serverin toimintamallin takia. Tässä vaiheessa alkoikin jo syntymään pieniä railoja ylläpitolaisten välille.",
+          "Ennen Karanteenin perustamista monet nykyiset ja entiset ylläpitolaiset tutustuivat toisiinsa eräällä toisella palvelimella moderointihommien yhteydessä. Pienten alkukankeuksien ja tutustumisien jälkeen meillä alkoi juttu luistamaan.",
+          "Ajan kuluessa osa kyseisen palvelimen ylläpitäjistä ystävystyi keskenään. Kuitenkin ajan myötä yhteishenki kyseisellä palvelimella alkoi hiipumaan, ja serverin ylläpitäminen ei ollut enää hauskaa. Tässä vaiheessa palvelimen ylläpitäjien välille alkoi syntymään erimielisyyksiä.",
           "Lopulta asiat päätyivätkin siihen, että valtaosa tämän palvelimen ylläpidosta erosi tältä servulta, joko suoraan tai pikkuhiljaa viikkojen kuluessa."
         ]
       }
@@ -587,7 +588,7 @@
     ]
   },
   {
-    "date": "Pelimuodot palaavat (2022 - ",
+    "date": "Pelimuodot palaavat (2022 - 2024)",
     "title": "Pelimuodot palaavat",
     "sections": [
       {
@@ -641,9 +642,9 @@
         "type": "image",
         "content": [
           {
-            "src": "/images/history/spawn15_1.png",
-            "alt": "15. kartan spawn",
-            "description": "LISÄÄ CREAN KUVII"
+            "src": "/images/history/creative_spawn.png",
+            "alt": "Creativen spawn",
+            "description": "Creativen spawn mustekaloineen"
           }
         ]
       },
@@ -681,43 +682,163 @@
       {
         "type": "text",
         "content": [
-          "16. kartta oli käytössä 20.1.2024 - 31.7.2024. Tämän kartan aikana hub avattiin yllätyksenä pääsiäisjuhlien päätteeksi 23.3.2024. Hubissa oli mukana useita minipelejä, kuten tetris, kitpvp, ja matopeli. Hubilta löytyi myös galleriasaari, parkeita, ja uudistetut äänestyslaatikot."
-        ]
-      }
-    ]
-  },
-  {
-    "date": "10.6.2016",
-    "title": "Isoja uutisia",
-    "sections": []
-  },
-  {
-    "date": "10.6.2016",
-    "title": "Palvelimen avaus",
-    "sections": []
-  },
-  {
-    "date": "05.2000",
-    "title": "Quis adipisicing incididunt.",
-    "sections": [
-      {
-        "type": "video",
-        "content": "https://www.youtube.com/embed/BvtBN80ifqY?si=fxYSK756lr0QkIXE"
-      },
-      {
-        "type": "text",
-        "content": [
-          ""
+          "16. kartta oli käytössä 20.1.2024 - 31.7.2024. Tämän kartan aikana hub avattiin yllätyksenä pääsiäisjuhlien päätteeksi 23.3.2024. Hubissa oli mukana useita minipelejä, kuten tetris, kitpvp, ja matopeli. Hubilta löytyi myös galleriasaari, parkeita, ja uudistetut äänestyslaatikot.",
+          "Vaikka palvelimelle eivät aiemmat minipelit itsessään vielä auenneet, pääsivät pelaajat kuitenkin näitä uusia pienempiä pelejä pelailemaan keskenään. Kiitokset näistä kuuluvat uusille ylläpitäjille, jotka ovat opetelleet Karanteenin omaa koodia, ja rakentaneet omaa koodiaan sen rinnalle ja päälle."
         ]
       },
       {
         "type": "image",
         "content": [
           {
-            "src": "/images/history/test.png",
-            "alt": "Ut non incididunt nostrud labore laborum occaecat excepteur ullamco.",
-            "description": "Labore deserunt nulla dolor duis do aliquip amet officia id labore."
+            "src": "/images/history/hub_default.png",
+            "alt": "Karanteenin oletushub",
+            "description": "Karanteenin oletushub"
+          },
+          {
+            "src": "/images/history/hub_winter.png",
+            "alt": "Karanteenin talvihub",
+            "description": "Karanteenin talvihub"
+          },
+          {
+            "src": "/images/history/hub_valentines.png",
+            "alt": "Karanteenin ystävänpäivähub",
+            "description": "Karanteenin ystävänpäivähub"
+          },
+          {
+            "src": "/images/history/hub_easter.png",
+            "alt": "Karanteenin pääsiäishub",
+            "description": "Karanteenin pääsiäishub"
+          },
+          {
+            "src": "/images/history/hub_pride.png",
+            "alt": "Karanteenin pridehub",
+            "description": "Karanteenin pridehub"
+          },
+          {
+            "src": "/images/history/hub_summer.png",
+            "alt": "Karanteenin kesähub",
+            "description": "Karanteenin kesähub"
+          },
+          {
+            "src": "/images/history/hub_halloween.png",
+            "alt": "Karanteenin halloweenhub",
+            "description": "Karanteenin halloweenhub"
+          },
+          {
+            "src": "/images/history/hub_santa.png",
+            "alt": "Karanteenin jouluhub",
+            "description": "Karanteenin jouluhub"
           }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2024 - Nykypäivä",
+    "title": "Nykypäivä",
+    "sections": [
+      {
+        "type": "text",
+        "content": [
+          "17. kartta oli käytössä 2.8.2024 - 7.2.2025. Spawnina toimi viidakkorauniorakennelma."
+        ]
+      },
+      {
+        "type": "image",
+        "content": [
+          {
+            "src": "/images/history/spawn17_1.png",
+            "alt": "17. kartan spawn",
+            "description": "Karanteenin 17. kartan spawn"
+          },
+          {
+            "src": "/images/history/spawn17_2.png",
+            "alt": "17. kartan spawn",
+            "description": "Karanteenin 17. kartan spawn"
+          },
+          {
+            "src": "/images/history/spawn17_3.png",
+            "alt": "17. kartan spawn",
+            "description": "Karanteenin 17. kartan spawn"
+          },
+          {
+            "src": "/images/history/spawn17_4.png",
+            "alt": "17. kartan spawn",
+            "description": "Karanteenin 17. kartan spawn"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "content": [
+          "18. kartta oli käytössä 9.2.2025 - 25.7.2025. Tämän kartan spawn on ensimmäinen spawn minkä pystyi lataamaan kartan mukana."
+        ]
+      },
+      {
+        "type": "image",
+        "content": [
+          {
+            "src": "/images/history/spawn18_1.png",
+            "alt": "18. kartan spawn",
+            "description": "Karanteenin 18. kartan spawn"
+          },
+          {
+            "src": "/images/history/spawn18_2.png",
+            "alt": "18. kartan spawn",
+            "description": "Karanteenin 18. kartan spawn"
+          },
+          {
+            "src": "/images/history/spawn18_3.png",
+            "alt": "18. kartan spawn",
+            "description": "Karanteenin 18. kartan spawn"
+          },
+          {
+            "src": "/images/history/spawn18_4.png",
+            "alt": "18. kartan spawn",
+            "description": "Karanteenin 18. kartan spawn"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "content": [
+          "19. kartta oli käytössä 26.7.2025 - 9.1.2026."
+        ]
+      },
+      {
+        "type": "image",
+        "content": [
+          {
+            "src": "/images/history/spawn19_1.png",
+            "alt": "19. kartan spawn",
+            "description": "Karanteenin 19. kartan spawn"
+          },
+          {
+            "src": "/images/history/spawn19_2.png",
+            "alt": "19. kartan spawn",
+            "description": "Karanteenin 19. kartan spawn"
+          },
+          {
+            "src": "/images/history/spawn19_3.png",
+            "alt": "19. kartan spawn",
+            "description": "Karanteenin 19. kartan spawn"
+          },
+          {
+            "src": "/images/history/spawn19_4.png",
+            "alt": "19. kartan spawn",
+            "description": "Karanteenin 19. kartan spawn"
+          },
+          {
+            "src": "/images/history/spawn19_5.png",
+            "alt": "19. kartan spawn",
+            "description": "Karanteenin 19. kartan spawn"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "content": [
+          "20. kartta avattiin 10.1.2026 ja on nykyinen käytössä oleva kartta. Tämän kartan aikana juhlittiin karanteenin 10v syntymäpäiviä, jota varten rakennettiin kokonaan oma maailma täynnä erilaisia minipelejä."
         ]
       }
     ]
