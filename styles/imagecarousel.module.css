@@ -1,0 +1,71 @@
+.wrapper {
+  width: 100%;
+  margin-bottom: 1.5rem;
+}
+
+.carousel {
+  position: relative;
+  width: 100%;
+}
+
+.imageWrapper {
+  width: 100%;
+  overflow: hidden;
+  border-radius: 6px;
+}
+
+.image {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.carouselButton {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  top: 0;
+  justify-content: center;
+  color: white;
+  border: none;
+  padding: 0.5rem 0.75rem;
+  cursor: pointer;
+  font-size: 1.5rem;
+  z-index: 2;
+  text-decoration: none;
+  color: #ffffff33;
+}
+
+.leftButton {
+  left: 0;
+  border-radius: 0 4px 4px 0;
+}
+
+.carousel:hover .leftButton {
+  background: transparent;
+  background: linear-gradient(90deg, #000000, #ffffff00);
+  border-radius: 6px 0 0 6px;
+  color: white;
+}
+
+.rightButton {
+  right: 0;
+  border-radius: 4px 0 0 4px;
+}
+
+.carousel:hover .rightButton {
+  background: transparent;
+  background: linear-gradient(90deg, #ffffff00, #000000);
+  border-radius: 0 6px 6px 0;
+  color: white;
+}
+
+.meta {
+  margin-top: 0.75rem;
+}
+
+.description {
+  font-size: 0.9rem;
+  color: #555;
+}
