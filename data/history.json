@@ -73,8 +73,8 @@
       {
         "type": "text",
         "content": [
-          "Monet ylläpitäjät jotka olivat eronneet, kavereita kaikki, halusivat alkaa luomaan uutta palvelinta. Yksi ylläpitäjistä ilmoittikin, että aikoo perustaa itse oman palvelimen, jolla asiat tulisi hoitumaan paremmin kuin tällä aiemmalla palvelimella, paremmalla porukalla.",
-          "Tälle palvelimelle saatiinkin rakennettua paljon parempi ympäristö, sekä pelaajille, että ulkonäöllisesti. Vaikka aiemmalle palvelimelle jääneen ylläpidon kanssa riitoja välillä tulikin satunnaisista asioista, me saatiin pidettyä asiat kasassa tällä palvelimella. Riidat kuitenkin vähenivät aiemman palvelimen ihmisten kanssa, ja päästiin omassa rauhassa kehittämään tätä uutta palvelinta, Purolaaksoa.",
+          "Monet edeltävältä serveriltä eronneet ylläpitäjät halusivat lähteä toteuttamaan yhdessä omaa palvelinta. Yksi ylläpitäjistä ilmoittikin, että aikoo perustaa itse oman palvelimen yhdessä ystävänsä kanssa, jolla asiat tulisi hoitumaan paremmin kuin tällä aiemmalla palvelimella, paremmalla porukalla.",
+          "Tälle palvelimelle saatiinkin rakennettua paljon parempi ympäristö, sekä pelaajille, että ulkonäöllisesti. Vaikka aiemmalle palvelimelle jääneen ylläpidon kanssa riitoja välillä tulikin satunnaisista asioista, onnuistui yhteishengen ylläpitäminen tällä uudella palvelimella huomattavasti paremmin. Näin päästiin omassa rauhassa kehittämään tätä uutta palvelinta, Purolaaksoa.",
           "Purolaakson voisi ajatella olleen leikkikenttä, millä nykyiset ja entiset omistajat oppivat ylläpitämään palvelinta, lähempänä palvelimen pyöritystä kuin koskaan aiemmin."
         ]
       }
@@ -97,10 +97,10 @@
       {
         "type": "text",
         "content": [
-          "Purolaakson omistajalla loppui ajan mittaa ylläpito (ja rahat) servun ylläpitämiseen, ja sen lopetusaikataulu tuli hiukan yllätyksenä. Tässä vaiheessa pohdittiin, että mitä tulisimme tekemään ilman Puroa, mitä oltiin rakennettu porukalla.",
-          "Karanteenin kaksi ensimmäistä omistajaa päättivätkin perustaa oman palvelimen, vaikka kolmas ei vielä heti halunnutkaan lähteä tähän mukaan. Palvelintila vuokrattiin 10.6.2016.",
-          "Palvelimelle ruvettiinkin kolmisteen pohtimaan nimeä, ja vaihtoehtojen pyörittelyn jälkeen päädyimme nimeen \"Karanteeni\", koska pelaajat eivät pääse sieltä pois. Samalla luotiin myös nykyisinkin käytössä oleva slogan, \"Serveri, joka vangitsee sinut\". Ainoastaan huutomerkki on tullut myöhemmin mukaan!",
-          "Aiempien kokemuksien ja yleisen minescenen vuoksi päätimmekin, että ihan alusta asti teemme palvelimen niin, että pelaamalla pelaajat voisivat saada uusia pelitasoja, täysin ilmaseksi."
+          "Purolaakson omistajalla loppui ajan mittaa motivaatio (ja rahat) servun ylläpitämiseen, ja sen lopetusaikataulu tuli Karanteenin alkuperäiselle porukalle hiukan yllätyksenä. Tässä vaiheessa pohdittiin ratkaisuja jatkaa palvelimen ylläpitämistä, sillä olihan meillä jo hyvä yhteisö kasassa.",
+          "Karanteenin kaksi ensimmäistä omistajaa päättivätkin perustaa uuden palvelimen, vaikka kolmas ei vielä heti halunnutkaan lähteä tähän mukaan. Palvelintila vuokrattiin ensimmäistä kertaa 10.6.2016.",
+          "Tämä uusi palvelin oli kipeästi nimeä vailla, ja vaihtoehtojen pyörittelyn jälkeen päädyimme nimeen \"Karanteeni\", koska pelaajat eivät pääse sieltä pois. Samalla luotiin myös nykyisinkin käytössä oleva slogan, \"Serveri, joka vangitsee sinut\". Ainoastaan huutomerkki on tullut myöhemmin mukaan!",
+          "Aiempien kokemuksien ja yleisen minescenen vuoksi päätimmekin, että vältämme ihan alusta alkaen maksullisten ominaisuuksien myymistä serverillä. Näin syntyi peliaikaan perustuvat tasot, joita alussa oli Elottomasta --> Parantajaan."
         ]
       },
       {
@@ -146,7 +146,9 @@
       {
         "type": "text",
         "content": [
-          "Ensimmäisen kartan aikana päätimme tehdä myös Karanteenille Youtube-kavan, ja julkaista sille ensimmäisen videon:"
+          "Karanteeniin Purolaaksosta siirtyneet ylläpitäjät saivat uuden palvelimen kasaan nopeassa ajassa, sillä vain 16 päivää myöhemmin palvelintilan vuokraamisen jälkeen avasimme serverin 26.6.2016.",
+          "Uudelle palvelimelle saatiin pelaajia Purolaaksosta, ja ensimmäisen kartan aikana serverille löysivät myös useat uudet pelaajat. Näin oli syntynyt Karanteenin oma yhteisö.",
+          "Ensimmäisen kartan aikana päätimme tehdä myös Karanteenille Youtube-kanavan, ja julkaista sille ensimmäisen videon:"
         ]
       },
       {
@@ -197,6 +199,7 @@
       {
         "type": "text",
         "content": [
+          "Teimme jo serverin alkuvaiheessa päätöksen toteuttaa Survivalin kartan mapresetit noin puolen vuoden välein. Mapresetin yhteydessä Survivalista katoaa maailma, kodit, rahat, tavaraluettelot ja muut pelaajiin liittyvät datat. Vain pelaajien keräämä peliaika pysyy karttojen välissä.",
           "Karanteenin toinen kartta avattiin tammikuussa 2017. Tämän spawnin inspiraationa on toiminut todennäköisesti minen viidakkotemppelit, mutta asiasta ei olla täysin varmoja. Spawn itsessään oli hyvin laaja ja avonainen korkeilla torneilla.",
           "Karanteenissa alkuaikoina pelaajilla olivat myös kitit käytettävissä, jotka paranivat pelitason mukaisesti paremmaksi. Matalimman tason kittiä pystyi käyttämään kerran päivässä, kun taas korkeamman tason kitit olivat kertakäyttöisiä, ja niillä sai pelin nopeammin aloitettua."
         ]
@@ -212,25 +215,20 @@
           {
             "src": "/images/history/2017-01-14_15.11.52.png",
             "alt": "Yhteiskuva pelaajista",
-            "description": "(14.1.2017) Juhlien yhteiskuva"
+            "description": "(14.1.2017) Kuva juhlista"
           },
           {
             "src": "/images/history/2017-01-14_15.26.25.png",
             "alt": "Yhteiskuva pelaajista",
-            "description": "(14.1.2017) Juhlien yhteiskuva"
+            "description": "(14.1.2017) Juhlien kalastuskisa-ohjelmanumero"
           }
         ]
       },
       {
         "type": "text",
         "content": [
-          "Jotkin pelaajat voivatkin muistaa, että Karanteeniin avattiin aikoinaan sellainen pelitila kuin Hostile Survival. Tässä pelitilassa pelaajilla oli mahdollisuus taistella keskenään hyödyntäen erikoiskirveitä ja kypäriä. Näillä pystyi esimerkiksi ohjaamaan toisen pelaajan hahmoa jos niitä käytti oikein.",
-          "Hostilen pienen pelaajamäärän vuoksi siitä luovuttiinkin, ja se vaihdettiin normaaliin pvp-maailmaan. Allaolevalla videolla näkyy lyhyt esittely joistain näistä erikoisvälineistä mitä hostilessa oli käytössä."
+          "Jotkin pelaajat voivatkin muistaa Karanteenin PVP-maailman historian. PVP-maailmaksi toteutettiin pelimuoto Hostile Survival, joka oli Survivalista toteutettu vaikeampi versio täynnä vaarallisempia versioita Minecraftin mobeista ja muita peliä vaikeuttavia ominaisuuksia."
         ]
-      },
-      {
-        "type": "video",
-        "content": "https://www.youtube.com/embed/Bmp0ewXXGA0"
       },
       {
         "type": "image",
@@ -245,8 +243,19 @@
       {
         "type": "text",
         "content": [
-          "Karanteenissa kartat ovat alusta lähtien olleet voimassa aina noin puolisen vuotta. Tämän takia tämä toinenkin kartta saapui päätökseensä kesäkuussa 2017, kun servu suljettiin uuden kartan asetusta varten. Tämä kolmas kartta olikin voimassa kesäkuusta 2017 joulukuuhun 2017.",
-          "Kolmannen kartan spawnina toimi mäen päällä oleva linna tai kartano, jonka moni pelaaja voikin muistaa sen spawnin ympäriltä löytyvistä puista. Vaikka puut olivatkin hienoja, ne jäädytti herkästi heikommalla koneella pelaavien pelit."
+          "Hostilen vähäisen suosion vuoksi päätimme luopua sen kehittämisestä. Vaihdoimmekin Hostilen tavalliseen PVP-maailmaan. PVP oli käytännössä Karanteenin normaali Survival, missä PVP ja grieffaus oli sallittua. Erikoisuutena PVP-maailmassa pelaajilla oli mahdollisuus taistella keskenään hyödyntäen erikoskirveitä ja -kypäriä, joilla pystyi esimerkiksi ohjaamaan toisen pelaajan hahmoa.",
+          "Alapuolella löytyvällä videolla näkyy lyhyt esittely joistain näistä erikoisvälineistä, jotka olivat PVP-maailmassa käytössä."
+        ]
+      },
+      {
+        "type": "video",
+        "content": "https://www.youtube.com/embed/Bmp0ewXXGA0"
+      },
+      {
+        "type": "text",
+        "content": [
+          "Survivalin toinen kartta saapui päätökseensä kesäkuussa 2017, kun servu suljettiin uuden kartan asetusta varten. Tämä kolmas kartta olikin voimassa kesäkuusta 2017 joulukuuhun 2017.",
+          "Kolmannen kartan spawnina toimi mäen päällä oleva linna tai kartano, jonka moni pelaaja voikin muistaa sen spawnin ympäriltä löytyvistä valtavista puista. Vaikka puut olivatkin tärkeä osa spawnia, ne jäädytti herkästi heikommalla koneella pelaavien pelit."
         ]
       },
       {
@@ -262,7 +271,7 @@
       {
         "type": "text",
         "content": [
-          "Tämän kolmannen kartan päätös tulikin nauhoitettua, kun ylläpito ja pelaajat grieffasivat sen ja maailman. Kaikki maailmat ovatkin lähes aina mapin päätteeksi ladattu talteen ja annettu ladattavaksi. Tämän jälkeen kartat ovat olleet vapaata riistaa grieffaamiselle muutaman päivän ajan ennen uuteen karttaan vaihtoa."
+          "Tämän kolmannen kartan päätös tulikin nauhoitettua, kun ylläpito ja pelaajat grieffasivat sen spawnin ja maailman. Kaikki maailmat ovatkin lähes aina mapin päätteeksi ladattu talteen ja annettu ladattavaksi. Tämän jälkeen kartat ovat olleet vapaata riistaa grieffaamiselle muutaman päivän ajan ennen uuteen karttaan vaihtoa."
         ]
       },
       {
@@ -272,7 +281,7 @@
       {
         "type": "text",
         "content": [
-          "Karanteenin neljäs kartta oli avoinna 2017 lopusta syyskuuhun 2018. Spawnina toimi vanhemman spawnin uudistettu versio. Ensimmäisen kartan spawn otettiin ja uudistettiin lähes täysin. Spawnipiste vaihtoi paikkaa ja rakennukseen lisättiin kerroksia ja huoneita. Lisäksi spawnille rakentui sisäpiha ja kauppana toimi lentävä steampunk -laiva. Tässä kartassa oli myös votecratet käytössä, kuten mahdollisesti jollakin aiemmallakin spawnilla."
+          "Karanteenin neljäs kartta oli avoinna 2017 lopusta syyskuuhun 2018. Spawnina toimi vanhemman spawnin uudistettu versio. Ensimmäisen kartan spawn otettiin ja uudistettiin lähes täysin. Spawnipiste vaihtoi paikkaa ja rakennukseen lisättiin kerroksia ja huoneita. Lisäksi spawnille rakentui sisäpiha ja kauppana toimi lentävä steampunk -laiva. Tässä kartassa oli myös votecratet käytössä, jotka toivat lisää jännitystä serverin äänestämiseen."
         ]
       },
       {
@@ -319,8 +328,8 @@
       {
         "type": "text",
         "content": [
-          "Pelaajat tietävät tästä vähemmän, mutta Karanteeniin oltiin suunnittelemassa prison-maailmaa pidemmän aikaa, ja siihen selviteltiin plugareita ja rakennettiin kenttiä.",
-          "Ajan kanssa mielenkiinto prisonia kohtaan kuitenkin väheni, ja projektin ison skaalan vuoksi se jäikin ikuisesti jäihin. Tästä löytyy kuitenkin joitain kuvia siitä, miltä Karanteenin prison olisi näyttänyt."
+          "Pelaajat tietävät tästä vähemmän, mutta Karanteeniin oltiin suunnittelemassa Prison-maailmaa pidemmän aikaa, ja siihen selviteltiin plugareita ja rakennettiin kenttiä.",
+          "Ajan kanssa mielenkiinto Prisonia kohtaan kuitenkin väheni, ja projektin ison skaalan vuoksi se jäikin ikuisesti jäihin. Tästä löytyy kuitenkin joitain kuvia siitä, miltä Karanteenin Prison olisi näyttänyt."
         ]
       },
       {
@@ -396,8 +405,8 @@
       {
         "type": "text",
         "content": [
-          "Prisonissa ideana oli, että pelaajat olisivat niin sanotusti kaapattu kaivamaan malmia ja puuta, ja niiden muisti olisi pyyhitty. Mitä pidemmälle pelaajat olisivat pelanneet, sitä enemmän ne olisivat kuulleet loresta, ja pelin lopuksi olisivat päässeet karkaamaan tästä vankilasta.",
-          "Prisonin nimi oli 'Artziko', josta löytyikin joitain mainosjulisteita palvelimen kaupoista, johon nämä kaivetut materiaalit olisivat niin sanotusti menneet myyntiin. Tätä suunnitelmaa ei kuitenkaan koskaan tehty loppuun asti. Teemansa mukaisesti prisonista itsestään suunniteltiinkin mahdollisimman dystopista."
+          "Prisonissa ideana oli, että pelaajat olisivat niin sanotusti kaapattu kaivamaan malmia ja puuta, ja heidän muistinsa olisi pyyhitty. Mitä pidemmälle pelaajat olisivat pelanneet, sitä enemmän ne olisivat kuulleet loresta, ja pelin lopuksi olisivat päässeet karkaamaan tästä vankilasta.",
+          "Prisonin nimi oli 'Artziko', josta löytyikin joitain mainosjulisteita palvelimen kaupoista, johon nämä kaivetut materiaalit olisivat niin sanotusti menneet myyntiin. Tätä suunnitelmaa ei kuitenkaan koskaan tehty loppuun asti. Teemansa mukaisesti Prisonista itsestään suunniteltiinkin mahdollisimman dystopista."
         ]
       },
       {
@@ -406,7 +415,7 @@
           {
             "src": "/images/history/2026-06-23_21.06.55.png",
             "alt": "Näkymä prisonista karattaessa",
-            "description": "Näkymä prisonista karattaessa"
+            "description": "Näkymä Prisonista karattaessa"
           }
         ]
       }
@@ -419,8 +428,8 @@
       {
         "type": "text",
         "content": [
-          "Karanteenin 5. kartta avattiin 23..20918, ja se jatkui helmikuun 2019 alkuun asti. Spawnina toimi suuri linna, jota kutsuttiin Lotrikiksi. Tämä oli palvelimen yksi suurimmista spawneista, ja portaita spawnilta poistumiseen olikin niin paljon, että sitä varten täytyi kehittää telepadit, että pelaajat voisivat poistua spawnilta ilman maratonia.",
-          "Karanteenissa oltiinkin tässä vaiheessa ja aiemmin valmisteltu omia plugareita Skriptin voimin, ja niitä alettiin valmistamaan aktiivisemmin lisää. Jotkin pelaajat voivatkin muistaa ne lukuisat bugit mitä tässä saatiin aikaan."
+          "Olimme todenneet Karanteenin sen aikaisten pluginien olevan riittämättömiä serverin tarpeisiin, joten päätimme alkaa kehittämään omia versioita näihin netistä löytyviin plugineihin.",
+          "Karanteenin 5. kartta avattiin 23.9.2018, ja se jatkui helmikuun 2019 alkuun asti. Spawnina toimi suuri linna, jota kutsuttiin Lotrikiksi. Tämä oli palvelimen yksi suurimmista spawneista, ja portaita spawnilta poistumiseen olikin niin paljon, että sitä varten täytyi kehittää telepadit, että pelaajat voisivat poistua spawnilta ilman maratonia."
         ]
       },
       {
@@ -441,10 +450,10 @@
       {
         "type": "text",
         "content": [
-          "Tähän asti Karanteenissa ei varsinaisesti ollut ylläpitohakemuksia, vaan ylläpitolaiset saatoivat vaan kysyä pelaajalta, että haluaako hän ylläpitoon. Sama ei toiminut ihan suoraan käänteisesti, koska jos sanoi 'anna op', niin se sytytti pelaajan tuleen. Tämä yläpitoon nostamisen tapa oli kuitenkin monelle pelaajalle ahdistava malli, jonka takia päätettiin lopettaa se, ja luotiin oikea hakupaikka niille, jotka halusivat ylläpitoon hakea.",
-          "Pian meidän ensimmäisellä hostilla kävikin suuri onnettomuus 2018 heinäkuussa - levytila täyttyi, pelaajien saaria alkoi katoamaan skyblockista, ja pelaajien peliaikaa katosi. Emme olleet saaneet tästä mitään varoitusta hostilta. Jouduimmekin hätäisesti sulkemaan palvelimen, ja parhaamme mukaan palauttamaan kadonnutta dataa.",
-          "Toisena onnettomuutena tämän jälkeen yksi ylläpitäjä muutti vahingossa koko survivalin kartan reikäjuustoksi, emmekä saaneet sitä enää palautettua - täytyikin tehdä pikainen mapreset.",
-          "Tämän jälkeen avattiin Karanteenin 6. kartta samalla spawnilla kuin mitä 5. kartassa oli käytössä. 6. kartta olikin käytössä 2019 alusta 2019 elokuuhun asti. Seuraavasta oikeasta suunnitellusta mapresetistä otettiinkin videota (välkkyvää videota):"
+          "Tähän asti Karanteenissa ei varsinaisesti ollut ylläpitohakemuksia, vaan ylläpitolaiset saatoivat vaan kysyä pelaajalta, että haluaako hän ylläpitoon. Sama ei toiminut ihan suoraan käänteisesti, koska jos sanoi 'anna op', niin se sytytti pelaajan tuleen. Tämä ylläpitoon nostamisen tapa oli kuitenkin monelle pelaajalle ahdistava malli, jonka takia päätettiin lopettaa se, ja luotiin oikea hakupaikka niille, jotka halusivat ylläpitoon hakea.",
+          "Pian meidän ensimmäisellä hostilla kävikin suuri onnettomuus 2018 heinäkuussa - levytila täyttyi, pelaajien saaria alkoi katoamaan Skyblockista, ja pelaajien peliaikaa katosi. Emme olleet saaneet tästä mitään varoitusta etukäteen. Jouduimmekin hätäisesti sulkemaan palvelimen, ja parhaamme mukaan palauttamaan kadonnutta dataa.",
+          "Toisena onnettomuutena tämän jälkeen yksi ylläpitäjä muutti vahingossa koko Survivalin kartan reikäjuustoksi, emmekä saaneet sitä enää palautettua - täytyikin tehdä pikainen mapreset.",
+          "Tämän jälkeen avattiin Karanteenin 6. kartta samalla spawnilla kuin mitä 5. kartassa oli käytössä. 6. kartta olikin käytössä 2019 alusta 2019 elokuuhun asti. Seuraavasta oikeasta suunnitellusta mapresetistä otettiinkin videota. (VAROITUS: välkkyviä valoja)"
         ]
       },
       {
@@ -454,8 +463,8 @@
       {
         "type": "text",
         "content": [
-          "Koska palvelinta pyöritettiin yhdellä minecraft-palvelimella, tästä tulikin aika paljon ongelmia. Tämän ja sen ajan hostin ongelmien vuoksi päätimmekin siirtyä paremmalle hostille, jossa pystyimme jakamaan minecraft-palvelimet omiksi asennuksikseen keväällä 2019.",
-          "Tästä tullut muutos oli suuri, emmekä saaneet vielä kaikkea toimimaan samaan aikaan. Tämän vuoksi Karanteenista poistuikin creative ja muut maailmat survivalia lukuunottamatta. Päätimme keskittyä siihen, että saisimme survivalin toimimaan mahdollisimman hyvin ensin tällä uudella järjestelmällä.",
+          "Karanteenin jokainen sen aikainen pelimuoto pyöri yhden Minecraft-palvelimen alla, joka aiheutti huomattavan määrän ongelmia niin suorituskyvyn kuin pelikokemuksenkin kannalta. Tämä yhdistettynä ongelmiin silloisen hostin kanssa johti siihen, että päätimmekin vaihtaa Karanteenin hostia ja jakaa serverin pelimuodot jatkossa omille palvelimilleen keväällä 2019.",
+          "Kyseinen muutos oli yksi suurimmista edistysaskeleista siihen mennessä, emmekä saaneet vielä eri pelimuotoja toimimaan samaan aikaan. Tämän vuoksi Karanteenista poistuikin Creative ja muut maailmat Survivalia lukuunottamatta. Päätimme keskittyä saamaan Survivalin toimimaan mahdollisimman hyvin omana pelimuotonaan, jossa riitti työtä, sillä vaihdoimme uuden hostin yhteydessä myös Karanteenin omiin, itse koodattuihin plugineihin.",
           "7. kartan spawnin nimi oli Satamakylä, ja täältä löytyykin ensimmäinen sieniluolan versio, jossa soi musiikki. Tässä vaiheessa luolassa vielä ei ollut sieniä, eikä Tuomas Veturia, vaan ylläpitolainen nuotion äärellä."
         ]
       },
@@ -482,17 +491,27 @@
       {
         "type": "text",
         "content": [
-          "Meillä oli tarkoituksena kuitenkin saada nämä vanhat pelimuodot ja hub takaisin käyttöön 'suhteellisen nopeasti'. isoimpana esteenä tällöin oli kuitenkin kokemuksen puute, koska kellään meistä ei ollut aiempaa kokemusta Bungeecordin pluginien kehityksestä, ja sen opettelussa menikin oma aikansa. Isoimpana haasteena tässä olivatkin chatin ja pelitasojen toimintaan saaminen eri palvelinten välillä.",
+          "Mapresetin yhteydessä ilmoitimmekin, että meillä oli tavoitteena saada nämä vanhat pelimuodot ja Hub takaisin käyttöön 'suhteellisen nopeasti'. Isoimpana esteenä tällöin oli kuitenkin kokemuksen puute, koska kellään meistä ei ollut aiempaa kokemusta Bungeecordin pluginien kehityksestä, ja sen opettelussa menikin oma aikansa. Isoimpana haasteena tässä olivatkin chatin ja pelitasojen toimintaan saaminen eri palvelinten välillä.",
           "7. kartta oli käytössä 11.8.2019 - 14.2.2020 välillä.",
-          "Palvelimelle lisättiin joitain pieniä asioita, kuten esimerkiksi /nimeä komento. Näihin aikoihin palvelimelle lisättiin myös ensimmäinen joulukalenteri, jossa pelaajat pystyivät saamaan palkintoja. Kalenterissa oli yksittäinen kylä, jossa oli 24 rakennusta, ja jokaiseen rakennukseen oli piilotettu nappi, josta sai palkinnon kun vastasi sen esittämään kysymykseen oikein. Viimeisen rakennuksen nappi oli ehkä turhankin hankalasti piilotettu, kun se löytyi heti oven yläpuolelta hämärästä nurkasta.",
+          "Palvelimelle lisättiin joitain pieniä asioita, kuten esimerkiksi /nimeä komento. Näihin aikoihin palvelimelle lisättiin myös ensimmäinen joulukalenteri, jossa pelaajat pystyivät keräämään palkintoja. Kalenterissa oli yksittäinen kylä, jossa oli 24 rakennusta, ja jokaiseen rakennukseen oli piilotettu nappi, josta sai palkinnon kun vastasi sen esittämään kysymykseen oikein. Viimeisen rakennuksen nappi oli ehkä turhankin hankalasti piilotettu, kun se löytyi heti oven yläpuolelta hämärästä nurkasta.",
           "Näihin aikoihin oltiin saatu myös Karanteenin 8. kartta auki 16.2.2020 - 29.5.2020. Samoihin aikoihin korona alkoi tekemään tuloaan maailmalle, ja moni ihminen ajattelikin, että Karanteenin nimi olisi tullut tästä."
+        ]
+      },
+      {
+        "type": "image",
+        "content": [
+          {
+            "src": "/images/history/spawn8_1.png",
+            "alt": "8. kartan spawn",
+            "description": "Karanteenin 8. kartan spawn"
+          }
         ]
       },
       {
         "type": "text",
         "content": [
           "Karanteenin 9. kartta oli käytössä 1.6.2020 - 6.11.2020.",
-          "Tähän aikaan palvelimen aktiivisin kehittäjä jäi tauolle, ja palvelimen kehitys jäi jäihin. Onneksi mukaan saatiin kuitenkin uusia kehittäjiä, jotka saivat palvelinta pidettyä pystyssä. Myöhemmin kehitystä päästiin kuitenkin jatkamaan eteenpäin, ja jälleen selvittämään miten Bungeecord saataisiin fiksusti toimimaan palvelimelle.",
+          "Tähän aikaan palvelimen aktiivisin kehittäjä jäi tauolle, ja palvelimen kehitys jäi jäihin. Onneksi mukaan saatiin kuitenkin uusia kehittäjiä, jotka saivat palvelinta pidettyä pystyssä. Myöhemmin kehitystä päästiin kuitenkin jatkamaan eteenpäin, jonka jälkeen Bungeecordin toimintaan saaminen palasi taas kehityslistan kärkeen.",
           "Bungeecordin kehityksen edistyessä pelaajien dataa saatiin siirrettyä sen puolelle pikkuhiljaa, valmistaen tulevaan päivitykseen, jossa palvelimia olisi enemmänkin kuin vain survival."
         ]
       },
@@ -525,7 +544,7 @@
       {
         "type": "text",
         "content": [
-          "Näinä vuosina oli vähemmän palvelimelle merkittäviä muutoksia, enemmänkin pieniä päivityksiä ja juhlien tekoa. Karanteenin 10. kartta oli käytössä 7.11.2020 - 11.7.2021."
+          "Näinä vuosina Karanteeniin tuli vähemmän palvelimelle merkittäviä muutoksia, enemmänkin pieniä päivityksiä ja juhlien tekoa. Karanteenin 10. kartta oli käytössä 7.11.2020 - 11.7.2021."
         ]
       },
       {
@@ -605,27 +624,27 @@
         "type": "image",
         "content": [
           {
-            "src": "/images/history/spawn13_1.png",
+            "src": "/images/history/spawn13_3.png",
             "alt": "13. kartan spawn",
             "description": "Karanteenin 13. kartan spawn"
+          },
+          {
+            "src": "/images/history/spawn13_1.png",
+            "alt": "13. kartan spawn",
+            "description": "Karanteenin 13. kartan spawn talvinen versio"
           },
           {
             "src": "/images/history/spawn13_2.png",
             "alt": "13. kartan spawn",
-            "description": "Karanteenin 13. kartan spawn"
-          },
-          {
-            "src": "/images/history/spawn13_3.png",
-            "alt": "13. kartan spawn",
-            "description": "Karanteenin 13. kartan spawn"
+            "description": "Karanteenin 13. kartan spawn talvinen versio yöllä"
           }
         ]
       },
       {
         "type": "text",
         "content": [
-          "Tänä aikana saatiin palvelimelle Bungeecord toimimaan, ja pystyimme alkamaan kehittämään pelejä ja testaamaan sen toimintaa käytännössä. Saimmekin ilmoitettua että creative on vihdoinkin edistynyt pitkälle.",
-          "Saimme näihin aikoihin luotua myös 2. uutisvideon:"
+          "13. kartan aikana saatiin palvelimelle Bungeecord toimimaan, joka mahdollisti mm. chatin ja peliajan jakamisen usean palvelimen välille. Testasimme Bungeecordin toimintaa mm. erilaisten tapahtumien yhteydessä. Bungeecordin myötä pystyimme pitkästä aikaa kehittämään uusia pelimuotoja ja saimmekin ilmoitettua Creativen edistymisestä.",
+          "Creativen ollessa lähes julkaisuvalmis päätimme ilmoittaa sen tulosta julkaisemalla Karanteenin 2. uutisvideon:"
         ]
       },
       {
@@ -635,7 +654,7 @@
       {
         "type": "text",
         "content": [
-          "14. kartta oli käytössä 28.1.2023 - 28.7.2023. Tämän kartan aikana saimme vihdoinkin avattua ovet creativeen uudistetulla kartalla oltuaan lähes neljä vuotta pois käytöstä, joka olihin hiukan pidempi aika kuin \"lyhyt aika\" mitä alunperin sanoimme."
+          "14. kartta oli käytössä 28.1.2023 - 28.7.2023. Tämän kartan aikana saimme vihdoinkin avattua ovet Creativeen uudistetulla kartalla oltuaan lähes neljä vuotta pois käytöstä, joka olihin hiukan pidempi aika kuin \"lyhyt aika\" mitä alunperin sanoimme."
         ]
       },
        {
@@ -682,8 +701,8 @@
       {
         "type": "text",
         "content": [
-          "16. kartta oli käytössä 20.1.2024 - 31.7.2024. Tämän kartan aikana hub avattiin yllätyksenä pääsiäisjuhlien päätteeksi 23.3.2024. Hubissa oli mukana useita minipelejä, kuten tetris, kitpvp, ja matopeli. Hubilta löytyi myös galleriasaari, parkeita, ja uudistetut äänestyslaatikot.",
-          "Vaikka palvelimelle eivät aiemmat minipelit itsessään vielä auenneet, pääsivät pelaajat kuitenkin näitä uusia pienempiä pelejä pelailemaan keskenään. Kiitokset näistä kuuluvat uusille ylläpitäjille, jotka ovat opetelleet Karanteenin omaa koodia, ja rakentaneet omaa koodiaan sen rinnalle ja päälle."
+          "16. kartta oli käytössä 20.1.2024 - 31.7.2024. Tämän kartan aikana Hub avattiin yllätyksenä pääsiäisjuhlien päätteeksi 23.3.2024. Hubissa oli mukana useita minipelejä, kuten Tetris, KitPvP, ja Matopeli. Hubista löytyi myös galleriasaari, parkoureja, ja uudistetut äänestyslaatikot.",
+          "Vaikka palvelimen aiemmat minipelit eivät Hubin yhteydessä palanneet, pääsivät pelaajat kuitenkin pelailemaan näitä uusia pelejä keskenään. Kiitokset näistä peleistä kuuluvat uusille ylläpitäjille, jotka ovat opetelleet Karanteenin omaa koodia, ja rakentaneet omaa koodiaan sen rinnalle ja päälle."
         ]
       },
       {
@@ -838,7 +857,7 @@
       {
         "type": "text",
         "content": [
-          "20. kartta avattiin 10.1.2026 ja on nykyinen käytössä oleva kartta. Tämän kartan aikana juhlittiin karanteenin 10v syntymäpäiviä, jota varten rakennettiin kokonaan oma maailma täynnä erilaisia minipelejä."
+          "20. kartta avattiin 10.1.2026 ja on nykyinen käytössä oleva kartta. Tämän kartan aikana juhlittiin Karanteenin 10v syntymäpäiviä, jota varten rakennettiin kokonaan oma maailma täynnä erilaisia minipelejä."
         ]
       }
     ]
