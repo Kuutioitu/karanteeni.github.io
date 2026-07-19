@@ -1,5 +1,150 @@
 [
     {
+        "date": "18.7.2026",
+        "changes": [
+            "Survival: Kartta, kodit ja rahat nollattu (mapreset 20 --> 21).",
+            "Server päivitetty 26.2 versioon."
+        ]
+    },
+    {
+        "date": "12.7.2026",
+        "changes": [
+            "Hub: Lisätty KitPvP-saari takaisin Hubiin uudella kaudella.",
+            "Hub: Lisätty uusi minipeli: Laivanupotus.",
+            "Hub: Äänestyslaatikoiden pennit ovat korvattu heiteltävillä tiiliskivillä.",
+            "Survival: Jokainen äänestys antaa Survivaliin suoraan 50 penniä."
+        ]
+    },
+    {
+        "date": "4.7.2026",
+        "changes": [
+            "Hub: Korttipelien korteista löytyy nyt takakannet.",
+            "Hub: UNO:ssa ei voi enää lopettaa villikorttiin."
+        ]
+    },
+    {
+        "date": "23.6.2026",
+        "changes": [
+            "Lisätty tuki versiolle 26.2.",
+            "Nimilaattojen Voice Chat kuvakkeissa näkyy nyt, jos pelaaja on ryhmässä.",
+            "Survival: Toisten pelaajien lemmikkien ikää ei voi lukita kultaisilla voikukilla.",
+            "Survival: Tehty teleporttailusta turvallisempaa."
+        ]
+    },
+    {
+        "date": "21.6.2026",
+        "changes": [
+            "Hub: Siirretty 10v syntymäpäiväpaikassa olleet minipelien muutokset Hubiin.",
+            "Hub: Lisätty vedessä surffaaminen."
+        ]
+    },
+    {
+        "date": "28.5.2026",
+        "changes": [
+            "Server päivitetty 26.1.2 versioon."
+        ]
+    },
+    {
+        "date": "24.5.2026",
+        "changes": [
+            "Hub: Hubin lautapelit ovat korvattu omilla versioilla."
+        ]
+    },
+    {
+        "date": "21.5.2026",
+        "changes": [
+            "Lisätty Voice Chat modia käyttäville pelaajille ikonit nimilaattojen päälle, jotka näyttävät muiden Voice Chat -statuksen.",
+            "Lisätty viesti suojauksen laittaessa pelaajalta lennon päälle tai pois päältä.",
+            "Korjailtu muutamia bugeja."
+        ]
+    },
+    {
+        "date": "3.5.2026",
+        "changes": [
+            "Hub: Lisätty 3 uutta korttipeliä: Paskahousu, Kalastus ja Kuningaskulma."
+        ]
+    },
+    {
+        "date": "2.4.2026",
+        "changes": [
+            "Creative: Lisätty /builderswand komento.",
+            "Korjailtu muutamia bugeja."
+        ]
+    },
+    {
+        "date": "1.4.2026",
+        "changes": [
+            "Lisätty tuki versiolle 26.1.",
+            "Korjailtu muutamia bugeja."
+        ]
+    },
+    {
+        "date": "25.3.2026",
+        "changes": [
+            "Korjailtu bugeja liittyen kotien asettamiseen ja poistamiseen."
+        ]
+    },
+    {
+        "date": "7.3.2026",
+        "changes": [
+            "Vaihdettu oikeuksien hallintaan käytettävää pluginia KaranteeniPerms -> LuckPerms.",
+            "Discordiin yhdistämisestä saa nyt partikkelin.",
+            "Tason noustessa luoksesi spawnaa ilotulitteita.",
+            "Voice Chat puheoikeudet avautuvat nyt 5h peliajan myötä, jos olet yhdistänyt käyttäjätilisi Discordiin.",
+            "Paranneltu /setting komentoa.",
+            "Korjailtu useampia bugeja oikeuksiin liittyen ja paranneltu oikeuksien toimimista (esimerkiksi Discord roolien synkronisointia)."
+        ]
+    },
+    {
+        "date": "24.2.2026",
+        "changes": [
+            "Survival: Lisätty uusi sulatusresepti, jolla voi polttaa juuret pois mutaisista mangrove juurista."
+        ]
+    },
+    {
+        "date": "18.2.2026",
+        "changes": [
+            "Päivitetty laajemmin serverin vinkkejä.",
+            "Nettisivut: muutoksia reseptisivulle ja ominaisuussivulle."
+        ]
+    },
+    {
+        "date": "15.2.2026",
+        "changes": [
+            "Lisätty uusi partikkeli."
+        ]
+    },
+    {
+        "date": "19.1.2026",
+        "changes": [
+            "Hub: Lisätty tutoriaali miinaharavaan."
+        ]
+    },
+    {
+        "date": "17.1.2026",
+        "changes": [
+            "Partyja voi nyt uudelleennimetä komennolla /party rename.",
+            "Lisätty asetus notify-chat, jonka ansioista server ilmoittaa liittyessä onko partychat päällä.",
+            "Lisätty komento /globalchat, joka mahdollistaa viestien laiton julkiseen chattiin muiden chat tilojen ollessa päällä.",
+            "Korjailtu muutamia bugeja."
+        ]
+    },
+    {
+        "date": "16.1.2026",
+        "changes": [
+            "Korjailtu muutamia bugeja."
+        ]
+    },
+    {
+        "date": "11.1.2026",
+        "changes": [
+            "Survival: Lisätty asetus, joka mahdollistaa säiliöiden (chestit jne) avaamisen kylttien ja item framejen läpi.",
+            "Survival: Samankaltaiset spawnerit stackaytyvät, kun ne hajottaa maasta.",
+            "Survival: Kaupassa näkee tavaroiden hinnat ja voiko tavaraa ostaa/myydä selkeämmin.",
+            "Survival: Korjattu lennon rikkoutuminen kuollessa."
+        ]
+    },
+    {
         "date": "10.1.2026",
         "changes": [
             "Karanteeni päivitetty täysin versioon 1.21.11.",
