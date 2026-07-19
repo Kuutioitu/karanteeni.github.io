@@ -857,7 +857,44 @@
       {
         "type": "text",
         "content": [
-          "20. kartta avattiin 10.1.2026 ja on nykyinen käytössä oleva kartta. Tämän kartan aikana juhlittiin Karanteenin 10v syntymäpäiviä, jota varten rakennettiin kokonaan oma maailma täynnä erilaisia minipelejä."
+          "20. kartta avattiin 10.1.2026. Tämän kartan aikana juhlittiin Karanteenin 10v syntymäpäiviä, jota varten rakennettiin kokonaan oma maailma täynnä erilaisia minipelejä. 20. kartta sulkeutui 17.7.2026."
+        ]
+      },
+      {
+        "type": "image",
+        "content": [
+          {
+            "src": "/images/history/spawn20_1.png",
+            "alt": "20. kartan spawn",
+            "description": "Karanteenin 20. kartan spawn"
+          },
+          {
+            "src": "/images/history/10v_yhteiskuva.png",
+            "alt": "10v yhteiskuva",
+            "description": "10v juhlien yhteydessä otettu yhteiskuva"
+          },
+          {
+            "src": "/images/history/10v_juhlapaikka_1.png",
+            "alt": "10v juhlapaikka",
+            "description": "Kuvankaappaus 10v juhlapaikasta"
+          }
+        ]
+      },
+      
+      {
+        "type": "text",
+        "content": [
+          "21. kartta avautui 18.7.2026."
+        ]
+      },
+      {
+        "type": "image",
+        "content": [
+          {
+            "src": "/images/history/spawn21_1.png",
+            "alt": "21. kartan spawn",
+            "description": "Karanteenin 21. kartan spawn"
+          }
         ]
       }
     ]
