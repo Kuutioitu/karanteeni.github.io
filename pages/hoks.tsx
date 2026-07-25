@@ -36,7 +36,7 @@ const Hoks = () => {
             <h3>Muita pointteja</h3>
             <ul>
                 <li>
-                    Karanteenissa valuuttana toimii pennit (❂). Pennejä voi ansaita äänestyslaatikoista, joita voit saada
+                    Karanteenissa valuuttana toimii pennit (❂). Pennejä voi saada
                     äänestämällä Karanteenia{' '}
                     <code>/vote</code> , myymällä malmeja kaupassa{' '}
                     <code>/warp kauppa</code> ja käymällä kauppaa toisten pelaajien kanssa.
