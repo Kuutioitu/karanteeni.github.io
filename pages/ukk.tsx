@@ -171,8 +171,8 @@ const EconomyQuestions = (props) => {
             <div>
                 <Question>Mitä valuuttaa palvelin käyttää ja kuinka saan sitä?</Question>
                 <Answer>
-                    Palvelimella on rahavaluuttana pennit. Pennejä saat äänestyslaatikoista, joita voit avata hubissa.
-                    Äänestyslaatikoita saat avattua komennolla <code>/vote</code>. Voit myös myydä sekä
+                    Palvelimella on rahavaluuttana pennit. Pennejä saat äänestämällä Karanteenia äänestyssivuilla, joihin
+                    löydät linkit komennolla <code>/vote</code> tai tämän sivuston etusivulta. Voit myös myydä sekä
                     ostaa tavaraa käyttämällä arkkukauppoja. Spawnilla on kauppa (<code>/warp kauppa</code>), jonne voit
                     myydä oreista tehtyjä blockeja.
                 </Answer>
@@ -259,7 +259,7 @@ const ModQuestions = (props) => {
                 <Question>Mitkä modit ovat sallittuja Karanteenissa?</Question>
                 <Answer>
                     Pääsääntöisesti kaikki pelaajia hyödyttävät modit ovat kiellettyjä, siinä missä grafiikkamodit kuten
-                    OptiFine ovat sallittuja. Mikäli modi vain neuvoo pelaajaa (esim. Litematica) on se Todennäköisesti sallittu.
+                    OptiFine ovat sallittuja. Mikäli modi vain neuvoo pelaajaa (esim. Litematica) on se todennäköisesti sallittu.
                     Nykäise ylläpitäjää hihasta mikäli et ole varma.
                 </Answer>
             </div>
