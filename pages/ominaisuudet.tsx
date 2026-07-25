@@ -187,8 +187,8 @@ const Ominaisuudet = () => {
             <Feature title="Äänestyslaatikot">
                 <Video source="/feature/votecrates.mp4" />
                 <p>Voit äänestää Karanteenia kerran päivässä kahdella eri sivustolla! Linkit löydät pelistä komennolla <code>/vote</code> ja karanteeni.net -etusivulta.</p>
-                <p>Äänestämällä saat palkinnoksi yhden äänestyslaatikon yhtä äänestyskertaa kohden, jotka voit käyttää Hub-palvelimella palvelinportaalien vieressä.</p>
-                <p>Äänestyslaatikoista voit saada palkinnoksi pennejä survivaliin, koristepäitä, pelaajapartikkeleita, taikamattopalikoita tai lisää äänestyslaatikoita!</p>
+                <p>Äänestämällä saat palkinnoksi 50 penniä survivaliin ja yhden äänestyslaatikon yhtä äänestyskertaa kohden, jotka voit käyttää Hub-palvelimella palvelinportaalien vieressä.</p>
+                <p>Äänestyslaatikoista voit saada palkinnoksi heiteltäviä tiiliä (tämän tilalle on kehitteillä jotain uutta!), koristepäitä, pelaajapartikkeleita, taikamattopalikoita tai lisää äänestyslaatikoita!</p>
             </Feature>
 
             <Feature title="Partikkelit">
