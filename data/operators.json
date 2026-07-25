@@ -65,14 +65,14 @@
       "description": "\"Täh?\"",
       "strengths": ["Riitojen sovittelu"],
       "uuid": "5db3cb0e4ae847dc91594cc10079190d",
-      "active": true
+      "active": false
     },
     {
       "name": "Kuutioitu",
       "description": "\"kertoisin mitä laiskuus on mutta en jaksa\"",
       "strengths": ["Palvelimen ylläpito", "Rakentaminen"],
       "uuid": "13ba8e18123d41c0bba580b2662c0e0d",
-      "active": true
+      "active": false
     },
     {
       "name": "RetuPoika",
