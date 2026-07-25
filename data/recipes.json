@@ -60,10 +60,6 @@
         "image": "powder_snow_bucket.png"
     },
     {
-        "caption": "Nametagille on Karanteenissa oma resepti.",
-        "image": "name_tag.png"
-    },
-    {
         "caption": "Voit työstää soittokellon kivestä, kultapalikoista ja mistä tahansa puulaatasta.",
         "image": "bell.png"
     },
@@ -72,7 +68,7 @@
         "image": "fortune_cookie.png"
     },
     {
-        "caption": "End crystal. Karanteenissa Ender dragon pudottaa joka spawnaus kerran jälkeen lohikäärmeen munan. Siksi end crystalleille on asetettu uusi vaikeampi resepti.",
+        "caption": "End crystal. Karanteenissa Ender dragon pudottaa joka spawnauskerran jälkeen lohikäärmeen munan. Siksi end crystalleille on asetettu uusi vaikeampi resepti.",
         "image": "end_crystal.png"
     },
     {
@@ -90,10 +86,6 @@
     {
         "caption": "Dispenserien craftays onnistuu nyt ilman bowien tekoa erikseen. Enää ei tarvitse tapella siis stackaantymättömien tavaroiden kanssa.",
         "image": "dispenser.png"
-    },
-    {
-        "caption": "Tuliko mainattua deepslatea silk touchilla? Voit tehdä stonecutterilla normaalista deepslatesta cobbled deepslatea ja sen variantteja.",
-        "image": "deepslate_to_variants.png"
     },
     {
         "caption": "Kaikki lasipaneelityypit voi muuttaa takaisin palikoiksi.",
